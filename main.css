@@ -97,6 +97,10 @@ button:hover{
     color: rgb(241, 137, 137);
 }
 
+footer .rodape {
+    color: #fff;
+}
+
 @media screen and (max-width: 431px) {
     .container {
         max-width: 90%;
@@ -119,6 +123,11 @@ button:hover{
     }
 
     .error {
+        font-size: 12px;
+    }
+
+    footer .rodape {
+        margin-bottom: 10px;
         font-size: 12px;
     }
 }
