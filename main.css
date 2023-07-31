@@ -87,6 +87,11 @@ button {
     width: 100%;
 }
 
+input {
+    height: 30px;
+
+}
+
 button:hover{
     color: #5c5959;
 }
@@ -121,6 +126,8 @@ footer .rodape {
     .container .endereco-completo {
         font-size: 15px;
     }
+
+    
 
     .error {
         font-size: 12px;
